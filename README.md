@@ -6,18 +6,14 @@
 AI视频监控平台, 是一款功能强大且简单易用的实时算法视频监控系统。愿景在最底层打通各大芯片厂商相互间的壁垒，省去繁琐重复的适配流程，实现芯片、算法、应用的全流程组合，减少企业级应用约 95%的开发成本，用户仅需在界面上简单操作，即可实现全视频的接入及布控。<br><br>
 
  **联系方式** 
-手机号、微信号：+86-15901018349
-我们的官网 [http://www.yihecode.com/](http://www.yihecode.com/)查看最新动态
-我们的bilibili官方地址：https://space.bilibili.com/1139333378 <br><br>
+手机号、微信号：+86-15901018349<br>
+我们的官网 [http://www.yihecode.com/](http://www.yihecode.com/)查看最新动态<br>
+我们的bilibili官方地址：https://space.bilibili.com/1139333378 <br>
 
 
 <img src="https://gitee.com/moo3108661550/yihecode-server/raw/master/src/main/resources/static/admin/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240614193133.png" />
 
 <img src="https://gitee.com/moo3108661550/yihecode-server/raw/master/src/main/resources/static/admin/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240614193142.png" />
-
-<video width="800" height="450" controls>
-  <source src="https://yihecode-selfweb.oss-cn-beijing.aliyuncs.com/software/tutorial-videos/%E5%A6%82%E4%BD%95%E5%85%B3%E8%81%94%E6%91%84%E5%83%8F%E5%A4%B4%E4%B8%8E%E7%AE%97%E6%B3%95%EF%BC%9F.mp4" type="video/mp4">
-</video>
 
 系统根据客户环境目前共分为三种形态：分别为<br>
 
@@ -37,29 +33,29 @@ AI视频监控平台, 是一款功能强大且简单易用的实时算法视频�
 #### 系列项目Gitee链接<br>
 请分别前往每个版本对应的两个项目同步代码。<br>
 
-**1.集群版-AIBOX**
-<br>
+** 1.平台版本-AIBOX **
+< br >
 |名称|描述|备注|
-|----|--————--|----|
-|AIBOX-Server|后端项目|需付费|
-|AIBOX-VUE|前端项目||
-<br>
+| ---- | ---- | ---- |
+| AIBOX-Server |账户项目|需付费|
+| AIBOX-VUE |前端项目||
+< br >
 
-**2. 服务器版-Master**
-<br>
+** 2. 服务器版-Master **
+< br >
 |名称|描述|备注|
-|----|---————-|----|
-|Master-Server|后端项目|镜像开源|
-|Master-VUE|前端项目||
-<br>
+| ---- | ---- | ---- |
+| Master-Server |日志项目|镜像开源|
+| Master-VUE |前端项目||
+< br >
 
-**3.单机版-SIngleBOX**
-<br>
+** 3.单机版-SIngleBOX **
+< br >
 |名称|描述|备注|
-|----|---————-|----|
-|SingleBox-Server|后端项目|需付费|
-|SingleBox-VUE|前端项目||
-<br>
+| ---- | ---- | ---- |
+| SingleBox-Server |资金项目|需付费|
+| SingleBox-VUE |前端项目||
+< br >
 
 ## 二、项目特点<br>
 - 集成化：视频监控、计算机视觉计算、告警通知 一体的视频安防平台<br>
