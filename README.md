@@ -53,7 +53,7 @@ AI视频监控平台, 是一款功能强大且简单易用的实时算法视频�
 <br>
 |名称|描述|备注|
 |----|----|----|
-|SingleBox-Server|后端项目|需付费|
+|SingleBox-Server|后端项目|镜像开源|
 |SingleBox-VUE|前端项目||
 <br>
 
